@@ -1,4 +1,4 @@
-# 🧠 Explainability Agent for CNNs
+# 🧠 Visional Reasoning Inside a CNN
 A deep learning project exploring interpretable concept-based explanations for image classification models using CNNs and manual filter labeling.
 
 This project is part of a long-term research preparation for high-impact, explainable AI work. It includes concept dataset creation, filter analysis, semantic explanation generation, and visualization using heatmaps.
