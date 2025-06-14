@@ -137,9 +137,9 @@ def explain_image(image_tensor, selected_filters, concept_model):
     for lbl in top_labels:
         score = avg_probs[lbl] * 100
         if lbl in expected.get(predicted_class, []):
-            status = f"erwartet für Klasse {predicted_class}"
+            status = f"expected for class  {predicted_class}"
         elif purity_scores.get(lbl, {}).get(predicted_class, 0) < 0.15:
-            status = f"untypisch, passt nicht zu {predicted_class}"
+            status = f"atypical for {predicted_class}"
         else:
             status = "neutral"
         explanation.append(f"{lbl} ({score:.1f}%) {status}")
