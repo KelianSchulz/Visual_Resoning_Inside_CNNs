@@ -1,0 +1,1536 @@
+
+Filter 0 – Mittelwerte pro Klasse:
+• plane      → 0.16
+• car        → 0.22
+• bird       → -0.20
+• cat        → -0.14
+• deer       → -0.25
+• dog        → -0.23
+• frog       → -0.16
+• horse      → -0.21
+• ship       → 0.27
+• truck      → 0.05
+
+Filter 1 – Mittelwerte pro Klasse:
+• plane      → 0.21
+• car        → -0.05
+• bird       → -0.14
+• cat        → -0.04
+• deer       → -0.23
+• dog        → -0.03
+• frog       → -0.35
+• horse      → -0.20
+• ship       → 0.20
+• truck      → 0.01
+
+Filter 2 – Mittelwerte pro Klasse:
+• plane      → -0.61
+• car        → -0.78
+• bird       → -0.65
+• cat        → -0.64
+• deer       → -0.69
+• dog        → -0.66
+• frog       → -0.78
+• horse      → -0.78
+• ship       → -0.58
+• truck      → -0.77
+
+Filter 3 – Mittelwerte pro Klasse:
+• plane      → -1.62
+• car        → -2.14
+• bird       → -1.81
+• cat        → -2.30
+• deer       → -1.80
+• dog        → -2.53
+• frog       → -2.06
+• horse      → -2.53
+• ship       → -1.54
+• truck      → -2.49
+
+Filter 4 – Mittelwerte pro Klasse:
+• plane      → -0.39
+• car        → -0.47
+• bird       → -0.47
+• cat        → -0.50
+• deer       → -0.49
+• dog        → -0.54
+• frog       → -0.53
+• horse      → -0.58
+• ship       → -0.34
+• truck      → -0.53
+
+Filter 5 – Mittelwerte pro Klasse:
+• plane      → -0.80
+• car        → -1.17
+• bird       → -0.48
+• cat        → -0.48
+• deer       → -0.39
+• dog        → -0.42
+• frog       → -0.54
+• horse      → -0.63
+• ship       → -0.90
+• truck      → -1.03
+
+Filter 6 – Mittelwerte pro Klasse:
+• plane      → -0.19
+• car        → -0.10
+• bird       → -1.70
+• cat        → -0.49
+• deer       → -1.90
+• dog        → -0.70
+• frog       → -1.94
+• horse      → -1.08
+• ship       → -0.03
+• truck      → -0.17
+
+Filter 7 – Mittelwerte pro Klasse:
+• plane      → -0.43
+• car        → -0.66
+• bird       → -0.61
+• cat        → -0.77
+• deer       → -0.63
+• dog        → -0.81
+• frog       → -0.66
+• horse      → -0.83
+• ship       → -0.39
+• truck      → -0.70
+
+Filter 8 – Mittelwerte pro Klasse:
+• plane      → -2.36
+• car        → -3.43
+• bird       → -2.56
+• cat        → -3.21
+• deer       → -2.63
+• dog        → -3.30
+• frog       → -3.13
+• horse      → -3.42
+• ship       → -2.32
+• truck      → -3.49
+
+Filter 9 – Mittelwerte pro Klasse:
+• plane      → -0.75
+• car        → -1.02
+• bird       → -0.99
+• cat        → -1.04
+• deer       → -0.99
+• dog        → -1.12
+• frog       → -1.03
+• horse      → -1.23
+• ship       → -0.80
+• truck      → -1.23
+
+Filter 10 – Mittelwerte pro Klasse:
+• plane      → -1.02
+• car        → -1.25
+• bird       → -0.95
+• cat        → -0.98
+• deer       → -0.95
+• dog        → -1.02
+• frog       → -0.99
+• horse      → -1.14
+• ship       → -0.97
+• truck      → -1.21
+
+Filter 11 – Mittelwerte pro Klasse:
+• plane      → -0.36
+• car        → -0.44
+• bird       → -0.42
+• cat        → -0.38
+• deer       → -0.45
+• dog        → -0.40
+• frog       → -0.43
+• horse      → -0.47
+• ship       → -0.34
+• truck      → -0.44
+
+Filter 12 – Mittelwerte pro Klasse:
+• plane      → 0.06
+• car        → -1.86
+• bird       → -1.72
+• cat        → -2.74
+• deer       → -2.38
+• dog        → -2.79
+• frog       → -3.43
+• horse      → -2.71
+• ship       → -0.26
+• truck      → -2.13
+
+Filter 13 – Mittelwerte pro Klasse:
+• plane      → -2.09
+• car        → -2.23
+• bird       → -1.64
+• cat        → -1.56
+• deer       → -1.49
+• dog        → -1.60
+• frog       → -1.84
+• horse      → -1.77
+• ship       → -2.09
+• truck      → -2.13
+
+Filter 14 – Mittelwerte pro Klasse:
+• plane      → -0.31
+• car        → -0.79
+• bird       → -0.59
+• cat        → -0.75
+• deer       → -0.73
+• dog        → -0.77
+• frog       → -0.92
+• horse      → -0.87
+• ship       → -0.34
+• truck      → -0.87
+
+Filter 15 – Mittelwerte pro Klasse:
+• plane      → -0.60
+• car        → -0.62
+• bird       → -0.55
+• cat        → -0.55
+• deer       → -0.54
+• dog        → -0.59
+• frog       → -0.58
+• horse      → -0.60
+• ship       → -0.55
+• truck      → -0.60
+
+Filter 16 – Mittelwerte pro Klasse:
+• plane      → -1.08
+• car        → -1.37
+• bird       → -1.03
+• cat        → -1.05
+• deer       → -1.04
+• dog        → -1.08
+• frog       → -1.18
+• horse      → -1.19
+• ship       → -1.10
+• truck      → -1.31
+
+Filter 17 – Mittelwerte pro Klasse:
+• plane      → -0.78
+• car        → -1.04
+• bird       → -0.78
+• cat        → -0.82
+• deer       → -0.81
+• dog        → -0.82
+• frog       → -0.95
+• horse      → -0.94
+• ship       → -0.77
+• truck      → -1.00
+
+Filter 18 – Mittelwerte pro Klasse:
+• plane      → -1.60
+• car        → -2.06
+• bird       → -1.06
+• cat        → -1.10
+• deer       → -0.91
+• dog        → -1.05
+• frog       → -1.07
+• horse      → -1.30
+• ship       → -1.82
+• truck      → -1.95
+
+Filter 19 – Mittelwerte pro Klasse:
+• plane      → -0.59
+• car        → -1.13
+• bird       → -1.06
+• cat        → -1.33
+• deer       → -1.16
+• dog        → -1.45
+• frog       → -1.40
+• horse      → -1.52
+• ship       → -0.60
+• truck      → -1.39
+
+Filter 20 – Mittelwerte pro Klasse:
+• plane      → -0.45
+• car        → -1.14
+• bird       → -0.88
+• cat        → -1.30
+• deer       → -1.09
+• dog        → -1.29
+• frog       → -1.28
+• horse      → -1.27
+• ship       → -0.54
+• truck      → -1.24
+
+Filter 21 – Mittelwerte pro Klasse:
+• plane      → -1.23
+• car        → -1.46
+• bird       → -0.99
+• cat        → -1.13
+• deer       → -1.00
+• dog        → -1.13
+• frog       → -1.18
+• horse      → -1.26
+• ship       → -1.19
+• truck      → -1.49
+
+Filter 22 – Mittelwerte pro Klasse:
+• plane      → -0.93
+• car        → -0.11
+• bird       → -0.57
+• cat        → 0.38
+• deer       → -0.31
+• dog        → 0.27
+• frog       → 0.09
+• horse      → 0.19
+• ship       → -0.68
+• truck      → -0.03
+
+Filter 23 – Mittelwerte pro Klasse:
+• plane      → -0.11
+• car        → -0.15
+• bird       → -0.15
+• cat        → -0.11
+• deer       → -0.17
+• dog        → -0.14
+• frog       → 0.05
+• horse      → -0.12
+• ship       → -0.18
+• truck      → -0.21
+
+Filter 24 – Mittelwerte pro Klasse:
+• plane      → -1.31
+• car        → -2.63
+• bird       → -1.58
+• cat        → -1.89
+• deer       → -1.78
+• dog        → -1.79
+• frog       → -2.34
+• horse      → -2.07
+• ship       → -1.60
+• truck      → -2.38
+
+Filter 25 – Mittelwerte pro Klasse:
+• plane      → -0.36
+• car        → -0.38
+• bird       → -0.33
+• cat        → -0.38
+• deer       → -0.30
+• dog        → -0.42
+• frog       → -0.39
+• horse      → -0.45
+• ship       → -0.37
+• truck      → -0.49
+
+Filter 26 – Mittelwerte pro Klasse:
+• plane      → 0.41
+• car        → 0.69
+• bird       → 0.37
+• cat        → 0.40
+• deer       → 0.42
+• dog        → 0.30
+• frog       → 0.53
+• horse      → 0.47
+• ship       → 0.44
+• truck      → 0.54
+
+Filter 27 – Mittelwerte pro Klasse:
+• plane      → -2.15
+• car        → -3.85
+• bird       → -2.65
+• cat        → -3.62
+• deer       → -2.96
+• dog        → -3.69
+• frog       → -3.48
+• horse      → -3.71
+• ship       → -2.29
+• truck      → -3.88
+
+Filter 28 – Mittelwerte pro Klasse:
+• plane      → -0.26
+• car        → -0.86
+• bird       → -0.47
+• cat        → -0.59
+• deer       → -0.61
+• dog        → -0.56
+• frog       → -0.61
+• horse      → -0.73
+• ship       → -0.34
+• truck      → -0.78
+
+Filter 29 – Mittelwerte pro Klasse:
+• plane      → -0.59
+• car        → -0.81
+• bird       → -0.62
+• cat        → -0.69
+• deer       → -0.63
+• dog        → -0.72
+• frog       → -0.72
+• horse      → -0.77
+• ship       → -0.58
+• truck      → -0.78
+
+Filter 30 – Mittelwerte pro Klasse:
+• plane      → -0.52
+• car        → -0.84
+• bird       → -0.25
+• cat        → -0.37
+• deer       → -0.18
+• dog        → -0.30
+• frog       → -0.20
+• horse      → -0.41
+• ship       → -0.63
+• truck      → -0.73
+
+Filter 31 – Mittelwerte pro Klasse:
+• plane      → -1.47
+• car        → -1.79
+• bird       → -1.34
+• cat        → -1.41
+• deer       → -1.32
+• dog        → -1.44
+• frog       → -1.54
+• horse      → -1.61
+• ship       → -1.43
+• truck      → -1.75
+
+Filter 32 – Mittelwerte pro Klasse:
+• plane      → -0.89
+• car        → -1.07
+• bird       → -0.95
+• cat        → -1.04
+• deer       → -0.98
+• dog        → -1.13
+• frog       → -0.99
+• horse      → -1.16
+• ship       → -0.83
+• truck      → -1.14
+
+Filter 33 – Mittelwerte pro Klasse:
+• plane      → -0.64
+• car        → -0.71
+• bird       → -0.71
+• cat        → -0.76
+• deer       → -0.71
+• dog        → -0.88
+• frog       → -0.62
+• horse      → -0.86
+• ship       → -0.58
+• truck      → -0.87
+
+Filter 34 – Mittelwerte pro Klasse:
+• plane      → -0.96
+• car        → -0.95
+• bird       → -0.97
+• cat        → -0.99
+• deer       → -0.96
+• dog        → -1.06
+• frog       → -0.95
+• horse      → -1.08
+• ship       → -0.85
+• truck      → -1.00
+
+Filter 35 – Mittelwerte pro Klasse:
+• plane      → -0.47
+• car        → -0.09
+• bird       → -0.43
+• cat        → -0.29
+• deer       → -0.38
+• dog        → -0.38
+• frog       → -0.25
+• horse      → -0.34
+• ship       → -0.29
+• truck      → -0.23
+
+Filter 36 – Mittelwerte pro Klasse:
+• plane      → -0.64
+• car        → -0.85
+• bird       → -0.57
+• cat        → -0.63
+• deer       → -0.57
+• dog        → -0.60
+• frog       → -0.68
+• horse      → -0.64
+• ship       → -0.61
+• truck      → -0.77
+
+Filter 37 – Mittelwerte pro Klasse:
+• plane      → -0.52
+• car        → -0.59
+• bird       → -0.43
+• cat        → -0.41
+• deer       → -0.39
+• dog        → -0.45
+• frog       → -0.42
+• horse      → -0.46
+• ship       → -0.51
+• truck      → -0.56
+
+Filter 38 – Mittelwerte pro Klasse:
+• plane      → -0.41
+• car        → -0.37
+• bird       → -0.29
+• cat        → -0.43
+• deer       → -0.27
+• dog        → -0.47
+• frog       → -0.26
+• horse      → -0.47
+• ship       → -0.37
+• truck      → -0.49
+
+Filter 39 – Mittelwerte pro Klasse:
+• plane      → -0.72
+• car        → -0.79
+• bird       → -0.81
+• cat        → -0.87
+• deer       → -0.91
+• dog        → -0.89
+• frog       → -0.88
+• horse      → -0.94
+• ship       → -0.55
+• truck      → -0.72
+
+Filter 40 – Mittelwerte pro Klasse:
+• plane      → -0.40
+• car        → -0.27
+• bird       → -0.24
+• cat        → -0.21
+• deer       → -0.21
+• dog        → -0.20
+• frog       → -0.20
+• horse      → -0.26
+• ship       → -0.35
+• truck      → -0.31
+
+Filter 41 – Mittelwerte pro Klasse:
+• plane      → -0.01
+• car        → 0.23
+• bird       → -0.21
+• cat        → 0.13
+• deer       → -0.22
+• dog        → 0.02
+• frog       → 0.04
+• horse      → 0.02
+• ship       → 0.01
+• truck      → 0.17
+
+Filter 42 – Mittelwerte pro Klasse:
+• plane      → -1.01
+• car        → -1.33
+• bird       → -0.92
+• cat        → -1.05
+• deer       → -0.94
+• dog        → -1.03
+• frog       → -1.15
+• horse      → -1.19
+• ship       → -1.02
+• truck      → -1.29
+
+Filter 43 – Mittelwerte pro Klasse:
+• plane      → -0.68
+• car        → -0.71
+• bird       → -0.58
+• cat        → -0.59
+• deer       → -0.54
+• dog        → -0.60
+• frog       → -0.64
+• horse      → -0.62
+• ship       → -0.59
+• truck      → -0.66
+
+Filter 44 – Mittelwerte pro Klasse:
+• plane      → -0.37
+• car        → -0.34
+• bird       → -0.19
+• cat        → -0.23
+• deer       → -0.13
+• dog        → -0.26
+• frog       → -0.15
+• horse      → -0.18
+• ship       → -0.32
+• truck      → -0.28
+
+Filter 45 – Mittelwerte pro Klasse:
+• plane      → -0.80
+• car        → -1.00
+• bird       → -0.65
+• cat        → -0.89
+• deer       → -0.64
+• dog        → -0.91
+• frog       → -0.69
+• horse      → -0.87
+• ship       → -0.78
+• truck      → -0.97
+
+Filter 46 – Mittelwerte pro Klasse:
+• plane      → -0.82
+• car        → -1.02
+• bird       → -0.41
+• cat        → -0.60
+• deer       → -0.36
+• dog        → -0.54
+• frog       → -0.43
+• horse      → -0.61
+• ship       → -0.88
+• truck      → -0.84
+
+Filter 47 – Mittelwerte pro Klasse:
+• plane      → -2.03
+• car        → -2.48
+• bird       → -1.78
+• cat        → -1.97
+• deer       → -1.69
+• dog        → -2.05
+• frog       → -1.97
+• horse      → -2.08
+• ship       → -2.02
+• truck      → -2.45
+
+Filter 48 – Mittelwerte pro Klasse:
+• plane      → -0.43
+• car        → -0.40
+• bird       → -0.49
+• cat        → -0.40
+• deer       → -0.51
+• dog        → -0.44
+• frog       → -0.48
+• horse      → -0.52
+• ship       → -0.39
+• truck      → -0.47
+
+Filter 49 – Mittelwerte pro Klasse:
+• plane      → -0.96
+• car        → -1.57
+• bird       → -0.56
+• cat        → -1.05
+• deer       → -0.50
+• dog        → -1.10
+• frog       → -0.52
+• horse      → -0.93
+• ship       → -1.10
+• truck      → -1.54
+
+Filter 50 – Mittelwerte pro Klasse:
+• plane      → -1.04
+• car        → -1.31
+• bird       → -0.78
+• cat        → -0.64
+• deer       → -0.75
+• dog        → -0.61
+• frog       → -0.77
+• horse      → -0.74
+• ship       → -1.10
+• truck      → -1.04
+
+Filter 51 – Mittelwerte pro Klasse:
+• plane      → -2.43
+• car        → -2.67
+• bird       → -1.63
+• cat        → -1.77
+• deer       → -1.50
+• dog        → -1.79
+• frog       → -1.69
+• horse      → -2.07
+• ship       → -2.37
+• truck      → -2.60
+
+Filter 52 – Mittelwerte pro Klasse:
+• plane      → -1.20
+• car        → -1.40
+• bird       → -0.83
+• cat        → -0.93
+• deer       → -0.81
+• dog        → -0.91
+• frog       → -0.87
+• horse      → -0.92
+• ship       → -1.16
+• truck      → -1.18
+
+Filter 53 – Mittelwerte pro Klasse:
+• plane      → -0.43
+• car        → -0.50
+• bird       → -0.51
+• cat        → -0.55
+• deer       → -0.55
+• dog        → -0.58
+• frog       → -0.63
+• horse      → -0.64
+• ship       → -0.33
+• truck      → -0.52
+
+Filter 54 – Mittelwerte pro Klasse:
+• plane      → 0.37
+• car        → -0.62
+• bird       → 0.20
+• cat        → -0.66
+• deer       → 0.08
+• dog        → -0.58
+• frog       → -0.04
+• horse      → -0.41
+• ship       → 0.25
+• truck      → -0.69
+
+Filter 55 – Mittelwerte pro Klasse:
+• plane      → -0.74
+• car        → -1.01
+• bird       → -0.81
+• cat        → -0.86
+• deer       → -0.81
+• dog        → -0.90
+• frog       → -0.94
+• horse      → -1.03
+• ship       → -0.73
+• truck      → -1.08
+
+Filter 56 – Mittelwerte pro Klasse:
+• plane      → 0.22
+• car        → -0.48
+• bird       → -1.08
+• cat        → -1.25
+• deer       → -1.56
+• dog        → -1.32
+• frog       → -2.05
+• horse      → -1.22
+• ship       → 0.14
+• truck      → -0.64
+
+Filter 57 – Mittelwerte pro Klasse:
+• plane      → -1.82
+• car        → -2.88
+• bird       → -2.18
+• cat        → -2.30
+• deer       → -2.31
+• dog        → -2.35
+• frog       → -2.71
+• horse      → -2.72
+• ship       → -1.90
+• truck      → -2.85
+
+Filter 58 – Mittelwerte pro Klasse:
+• plane      → -0.93
+• car        → -0.85
+• bird       → -1.17
+• cat        → -1.20
+• deer       → -1.21
+• dog        → -1.37
+• frog       → -1.11
+• horse      → -1.41
+• ship       → -0.80
+• truck      → -1.16
+
+Filter 59 – Mittelwerte pro Klasse:
+• plane      → -3.31
+• car        → -4.41
+• bird       → -3.46
+• cat        → -3.97
+• deer       → -3.64
+• dog        → -4.08
+• frog       → -4.20
+• horse      → -4.47
+• ship       → -3.06
+• truck      → -4.45
+
+Filter 60 – Mittelwerte pro Klasse:
+• plane      → -0.73
+• car        → -0.42
+• bird       → -0.68
+• cat        → -0.42
+• deer       → -0.61
+• dog        → -0.48
+• frog       → -0.66
+• horse      → -0.52
+• ship       → -0.69
+• truck      → -0.48
+
+Filter 61 – Mittelwerte pro Klasse:
+• plane      → -0.41
+• car        → -0.71
+• bird       → -0.55
+• cat        → -0.63
+• deer       → -0.59
+• dog        → -0.65
+• frog       → -0.67
+• horse      → -0.72
+• ship       → -0.44
+• truck      → -0.72
+
+Filter 62 – Mittelwerte pro Klasse:
+• plane      → -0.34
+• car        → -0.51
+• bird       → -0.15
+• cat        → -0.41
+• deer       → -0.08
+• dog        → -0.40
+• frog       → -0.16
+• horse      → -0.25
+• ship       → -0.35
+• truck      → -0.51
+
+Filter 63 – Mittelwerte pro Klasse:
+• plane      → -1.14
+• car        → -1.19
+• bird       → -0.56
+• cat        → -1.04
+• deer       → -0.54
+• dog        → -1.06
+• frog       → -0.61
+• horse      → -0.75
+• ship       → -1.00
+• truck      → -1.07
+
+Filter 64 – Mittelwerte pro Klasse:
+• plane      → -2.42
+• car        → -3.26
+• bird       → -1.74
+• cat        → -2.11
+• deer       → -1.75
+• dog        → -2.03
+• frog       → -1.88
+• horse      → -2.22
+• ship       → -2.55
+• truck      → -2.92
+
+Filter 65 – Mittelwerte pro Klasse:
+• plane      → -0.56
+• car        → -0.49
+• bird       → -0.50
+• cat        → -0.47
+• deer       → -0.51
+• dog        → -0.54
+• frog       → -0.37
+• horse      → -0.41
+• ship       → -0.40
+• truck      → -0.30
+
+Filter 66 – Mittelwerte pro Klasse:
+• plane      → 0.16
+• car        → 0.39
+• bird       → 0.57
+• cat        → 0.55
+• deer       → 0.68
+• dog        → 0.58
+• frog       → 0.76
+• horse      → 0.64
+• ship       → 0.14
+• truck      → 0.47
+
+Filter 67 – Mittelwerte pro Klasse:
+• plane      → -0.29
+• car        → -0.27
+• bird       → -0.12
+• cat        → -0.12
+• deer       → -0.03
+• dog        → -0.12
+• frog       → -0.07
+• horse      → -0.09
+• ship       → -0.26
+• truck      → -0.20
+
+Filter 68 – Mittelwerte pro Klasse:
+• plane      → -2.36
+• car        → -1.25
+• bird       → -0.34
+• cat        → -0.54
+• deer       → 0.15
+• dog        → -0.51
+• frog       → 0.28
+• horse      → -0.37
+• ship       → -2.05
+• truck      → -1.33
+
+Filter 69 – Mittelwerte pro Klasse:
+• plane      → -0.43
+• car        → -0.45
+• bird       → -0.29
+• cat        → -0.25
+• deer       → -0.26
+• dog        → -0.25
+• frog       → -0.24
+• horse      → -0.31
+• ship       → -0.40
+• truck      → -0.43
+
+Filter 70 – Mittelwerte pro Klasse:
+• plane      → -1.70
+• car        → -1.24
+• bird       → -1.13
+• cat        → -0.79
+• deer       → -0.91
+• dog        → -0.99
+• frog       → -0.52
+• horse      → -0.90
+• ship       → -1.53
+• truck      → -1.30
+
+Filter 71 – Mittelwerte pro Klasse:
+• plane      → -0.60
+• car        → -0.96
+• bird       → -0.44
+• cat        → -0.86
+• deer       → -0.47
+• dog        → -0.90
+• frog       → -0.42
+• horse      → -0.87
+• ship       → -0.63
+• truck      → -1.06
+
+Filter 72 – Mittelwerte pro Klasse:
+• plane      → -0.91
+• car        → -1.15
+• bird       → -0.93
+• cat        → -1.06
+• deer       → -0.88
+• dog        → -1.14
+• frog       → -0.92
+• horse      → -1.15
+• ship       → -0.90
+• truck      → -1.23
+
+Filter 73 – Mittelwerte pro Klasse:
+• plane      → -0.12
+• car        → -0.23
+• bird       → -0.36
+• cat        → -0.31
+• deer       → -0.44
+• dog        → -0.33
+• frog       → -0.40
+• horse      → -0.37
+• ship       → -0.18
+• truck      → -0.28
+
+Filter 74 – Mittelwerte pro Klasse:
+• plane      → 0.08
+• car        → -0.08
+• bird       → -0.28
+• cat        → -0.46
+• deer       → -0.33
+• dog        → -0.54
+• frog       → -0.44
+• horse      → -0.53
+• ship       → 0.05
+• truck      → -0.25
+
+Filter 75 – Mittelwerte pro Klasse:
+• plane      → -0.56
+• car        → -0.72
+• bird       → -0.39
+• cat        → -0.46
+• deer       → -0.43
+• dog        → -0.46
+• frog       → -0.53
+• horse      → -0.56
+• ship       → -0.59
+• truck      → -0.77
+
+Filter 76 – Mittelwerte pro Klasse:
+• plane      → -1.46
+• car        → -1.73
+• bird       → -1.69
+• cat        → -1.85
+• deer       → -1.84
+• dog        → -1.94
+• frog       → -2.15
+• horse      → -1.86
+• ship       → -1.38
+• truck      → -1.82
+
+Filter 77 – Mittelwerte pro Klasse:
+• plane      → 0.58
+• car        → 0.79
+• bird       → 0.37
+• cat        → 0.30
+• deer       → 0.34
+• dog        → 0.25
+• frog       → 0.33
+• horse      → 0.40
+• ship       → 0.63
+• truck      → 0.62
+
+Filter 78 – Mittelwerte pro Klasse:
+• plane      → -0.68
+• car        → -1.02
+• bird       → -0.68
+• cat        → -0.86
+• deer       → -0.70
+• dog        → -0.87
+• frog       → -0.90
+• horse      → -0.98
+• ship       → -0.68
+• truck      → -1.03
+
+Filter 79 – Mittelwerte pro Klasse:
+• plane      → -0.89
+• car        → -1.33
+• bird       → -1.32
+• cat        → -1.52
+• deer       → -1.39
+• dog        → -1.61
+• frog       → -1.66
+• horse      → -1.73
+• ship       → -0.77
+• truck      → -1.51
+
+Filter 80 – Mittelwerte pro Klasse:
+• plane      → -0.66
+• car        → -0.68
+• bird       → -0.63
+• cat        → -0.62
+• deer       → -0.63
+• dog        → -0.66
+• frog       → -0.63
+• horse      → -0.70
+• ship       → -0.61
+• truck      → -0.74
+
+Filter 81 – Mittelwerte pro Klasse:
+• plane      → -0.82
+• car        → -1.22
+• bird       → -0.84
+• cat        → -1.02
+• deer       → -0.94
+• dog        → -1.05
+• frog       → -1.05
+• horse      → -1.22
+• ship       → -0.88
+• truck      → -1.27
+
+Filter 82 – Mittelwerte pro Klasse:
+• plane      → -1.00
+• car        → -1.61
+• bird       → -1.32
+• cat        → -1.36
+• deer       → -1.47
+• dog        → -1.46
+• frog       → -1.50
+• horse      → -1.71
+• ship       → -0.98
+• truck      → -1.72
+
+Filter 83 – Mittelwerte pro Klasse:
+• plane      → -2.23
+• car        → -2.07
+• bird       → -1.68
+• cat        → -1.86
+• deer       → -1.53
+• dog        → -1.94
+• frog       → -1.63
+• horse      → -1.87
+• ship       → -1.90
+• truck      → -2.03
+
+Filter 84 – Mittelwerte pro Klasse:
+• plane      → -1.23
+• car        → -1.75
+• bird       → -1.11
+• cat        → -1.10
+• deer       → -1.09
+• dog        → -1.08
+• frog       → -1.29
+• horse      → -1.23
+• ship       → -1.29
+• truck      → -1.45
+
+Filter 85 – Mittelwerte pro Klasse:
+• plane      → -3.65
+• car        → -4.63
+• bird       → -3.32
+• cat        → -3.48
+• deer       → -3.38
+• dog        → -3.50
+• frog       → -3.74
+• horse      → -3.91
+• ship       → -3.57
+• truck      → -4.25
+
+Filter 86 – Mittelwerte pro Klasse:
+• plane      → -0.04
+• car        → 0.04
+• bird       → 0.10
+• cat        → -0.07
+• deer       → 0.14
+• dog        → -0.13
+• frog       → 0.17
+• horse      → -0.04
+• ship       → 0.16
+• truck      → 0.17
+
+Filter 87 – Mittelwerte pro Klasse:
+• plane      → -0.40
+• car        → -0.87
+• bird       → -0.98
+• cat        → -1.17
+• deer       → -1.15
+• dog        → -1.24
+• frog       → -1.47
+• horse      → -1.40
+• ship       → -0.41
+• truck      → -1.14
+
+Filter 88 – Mittelwerte pro Klasse:
+• plane      → -0.43
+• car        → -0.86
+• bird       → -0.77
+• cat        → -0.98
+• deer       → -0.92
+• dog        → -1.02
+• frog       → -1.03
+• horse      → -1.18
+• ship       → -0.47
+• truck      → -1.03
+
+Filter 89 – Mittelwerte pro Klasse:
+• plane      → -1.76
+• car        → 0.30
+• bird       → 0.38
+• cat        → 0.78
+• deer       → 1.08
+• dog        → 0.70
+• frog       → 1.79
+• horse      → 0.96
+• ship       → -1.25
+• truck      → 0.26
+
+Filter 90 – Mittelwerte pro Klasse:
+• plane      → -0.81
+• car        → -0.96
+• bird       → -0.79
+• cat        → -0.85
+• deer       → -0.83
+• dog        → -0.88
+• frog       → -0.88
+• horse      → -0.97
+• ship       → -0.79
+• truck      → -1.00
+
+Filter 91 – Mittelwerte pro Klasse:
+• plane      → -0.66
+• car        → -0.84
+• bird       → -0.79
+• cat        → -0.95
+• deer       → -0.83
+• dog        → -1.02
+• frog       → -0.85
+• horse      → -1.09
+• ship       → -0.59
+• truck      → -1.00
+
+Filter 92 – Mittelwerte pro Klasse:
+• plane      → -3.21
+• car        → -4.61
+• bird       → -3.24
+• cat        → -3.58
+• deer       → -3.23
+• dog        → -3.61
+• frog       → -3.88
+• horse      → -4.13
+• ship       → -3.35
+• truck      → -4.51
+
+Filter 93 – Mittelwerte pro Klasse:
+• plane      → -1.28
+• car        → -1.04
+• bird       → -0.79
+• cat        → -0.37
+• deer       → -0.64
+• dog        → -0.39
+• frog       → -0.50
+• horse      → -0.38
+• ship       → -1.19
+• truck      → -0.71
+
+Filter 94 – Mittelwerte pro Klasse:
+• plane      → -1.42
+• car        → -1.65
+• bird       → -1.28
+• cat        → -1.36
+• deer       → -1.29
+• dog        → -1.41
+• frog       → -1.40
+• horse      → -1.54
+• ship       → -1.37
+• truck      → -1.67
+
+Filter 95 – Mittelwerte pro Klasse:
+• plane      → -0.23
+• car        → -0.27
+• bird       → -0.22
+• cat        → -0.17
+• deer       → -0.23
+• dog        → -0.16
+• frog       → -0.24
+• horse      → -0.18
+• ship       → -0.23
+• truck      → -0.24
+
+Filter 96 – Mittelwerte pro Klasse:
+• plane      → -0.90
+• car        → -0.97
+• bird       → -0.85
+• cat        → -0.90
+• deer       → -0.75
+• dog        → -1.00
+• frog       → -0.90
+• horse      → -1.02
+• ship       → -0.84
+• truck      → -1.14
+
+Filter 97 – Mittelwerte pro Klasse:
+• plane      → -0.65
+• car        → -0.82
+• bird       → -0.59
+• cat        → -0.62
+• deer       → -0.59
+• dog        → -0.62
+• frog       → -0.71
+• horse      → -0.73
+• ship       → -0.64
+• truck      → -0.81
+
+Filter 98 – Mittelwerte pro Klasse:
+• plane      → -0.41
+• car        → -0.57
+• bird       → -0.47
+• cat        → -0.53
+• deer       → -0.49
+• dog        → -0.56
+• frog       → -0.61
+• horse      → -0.63
+• ship       → -0.39
+• truck      → -0.62
+
+Filter 99 – Mittelwerte pro Klasse:
+• plane      → -4.04
+• car        → -3.13
+• bird       → -1.92
+• cat        → -1.81
+• deer       → -1.41
+• dog        → -1.81
+• frog       → -1.16
+• horse      → -1.81
+• ship       → -3.52
+• truck      → -3.00
+
+Filter 100 – Mittelwerte pro Klasse:
+• plane      → -0.38
+• car        → -0.37
+• bird       → -0.32
+• cat        → -0.36
+• deer       → -0.32
+• dog        → -0.40
+• frog       → -0.33
+• horse      → -0.38
+• ship       → -0.35
+• truck      → -0.47
+
+Filter 101 – Mittelwerte pro Klasse:
+• plane      → -1.00
+• car        → -1.28
+• bird       → -1.14
+• cat        → -1.27
+• deer       → -1.21
+• dog        → -1.34
+• frog       → -1.30
+• horse      → -1.43
+• ship       → -0.93
+• truck      → -1.38
+
+Filter 102 – Mittelwerte pro Klasse:
+• plane      → -1.42
+• car        → -1.74
+• bird       → -1.49
+• cat        → -1.69
+• deer       → -1.42
+• dog        → -1.77
+• frog       → -1.59
+• horse      → -1.80
+• ship       → -1.31
+• truck      → -1.72
+
+Filter 103 – Mittelwerte pro Klasse:
+• plane      → -0.43
+• car        → -0.51
+• bird       → -0.13
+• cat        → 0.16
+• deer       → 0.01
+• dog        → 0.18
+• frog       → -0.03
+• horse      → -0.02
+• ship       → -0.61
+• truck      → -0.50
+
+Filter 104 – Mittelwerte pro Klasse:
+• plane      → -2.42
+• car        → -3.03
+• bird       → -1.70
+• cat        → -1.83
+• deer       → -1.58
+• dog        → -1.70
+• frog       → -2.15
+• horse      → -1.98
+• ship       → -2.39
+• truck      → -2.58
+
+Filter 105 – Mittelwerte pro Klasse:
+• plane      → -1.92
+• car        → -0.36
+• bird       → -0.10
+• cat        → 0.45
+• deer       → 0.30
+• dog        → 0.46
+• frog       → 1.05
+• horse      → 0.63
+• ship       → -1.48
+• truck      → -0.19
+
+Filter 106 – Mittelwerte pro Klasse:
+• plane      → -1.33
+• car        → -1.53
+• bird       → -1.21
+• cat        → -1.28
+• deer       → -1.17
+• dog        → -1.31
+• frog       → -1.35
+• horse      → -1.41
+• ship       → -1.27
+• truck      → -1.53
+
+Filter 107 – Mittelwerte pro Klasse:
+• plane      → -0.75
+• car        → -0.95
+• bird       → -0.78
+• cat        → -0.82
+• deer       → -0.78
+• dog        → -0.86
+• frog       → -0.88
+• horse      → -0.93
+• ship       → -0.74
+• truck      → -0.97
+
+Filter 108 – Mittelwerte pro Klasse:
+• plane      → -0.87
+• car        → -1.23
+• bird       → -1.04
+• cat        → -1.48
+• deer       → -1.14
+• dog        → -1.55
+• frog       → -1.34
+• horse      → -1.61
+• ship       → -0.79
+• truck      → -1.45
+
+Filter 109 – Mittelwerte pro Klasse:
+• plane      → -1.97
+• car        → -3.35
+• bird       → -2.31
+• cat        → -3.00
+• deer       → -2.45
+• dog        → -3.02
+• frog       → -3.14
+• horse      → -3.31
+• ship       → -2.09
+• truck      → -3.43
+
+Filter 110 – Mittelwerte pro Klasse:
+• plane      → -1.84
+• car        → -2.24
+• bird       → -1.50
+• cat        → -1.50
+• deer       → -1.44
+• dog        → -1.51
+• frog       → -1.57
+• horse      → -1.65
+• ship       → -1.88
+• truck      → -2.08
+
+Filter 111 – Mittelwerte pro Klasse:
+• plane      → -0.30
+• car        → -0.25
+• bird       → -0.29
+• cat        → -0.28
+• deer       → -0.28
+• dog        → -0.32
+• frog       → -0.32
+• horse      → -0.35
+• ship       → -0.25
+• truck      → -0.30
+
+Filter 112 – Mittelwerte pro Klasse:
+• plane      → -0.15
+• car        → -0.45
+• bird       → -0.36
+• cat        → -0.10
+• deer       → -0.39
+• dog        → -0.05
+• frog       → -0.59
+• horse      → -0.18
+• ship       → -0.36
+• truck      → -0.32
+
+Filter 113 – Mittelwerte pro Klasse:
+• plane      → -2.41
+• car        → -2.09
+• bird       → -1.42
+• cat        → -1.39
+• deer       → -1.22
+• dog        → -1.47
+• frog       → -1.03
+• horse      → -1.46
+• ship       → -2.24
+• truck      → -1.98
+
+Filter 114 – Mittelwerte pro Klasse:
+• plane      → -4.27
+• car        → -4.37
+• bird       → -3.06
+• cat        → -3.48
+• deer       → -2.71
+• dog        → -3.55
+• frog       → -3.03
+• horse      → -3.81
+• ship       → -3.88
+• truck      → -4.50
+
+Filter 115 – Mittelwerte pro Klasse:
+• plane      → -0.83
+• car        → -0.98
+• bird       → -0.81
+• cat        → -0.83
+• deer       → -0.82
+• dog        → -0.87
+• frog       → -0.91
+• horse      → -0.97
+• ship       → -0.78
+• truck      → -0.99
+
+Filter 116 – Mittelwerte pro Klasse:
+• plane      → -0.70
+• car        → -0.67
+• bird       → -0.61
+• cat        → -0.51
+• deer       → -0.60
+• dog        → -0.56
+• frog       → -0.58
+• horse      → -0.47
+• ship       → -0.55
+• truck      → -0.52
+
+Filter 117 – Mittelwerte pro Klasse:
+• plane      → -2.51
+• car        → -2.49
+• bird       → -1.69
+• cat        → -1.42
+• deer       → -1.43
+• dog        → -1.40
+• frog       → -1.50
+• horse      → -1.56
+• ship       → -2.50
+• truck      → -2.28
+
+Filter 118 – Mittelwerte pro Klasse:
+• plane      → -0.94
+• car        → -1.18
+• bird       → -0.95
+• cat        → -0.87
+• deer       → -0.90
+• dog        → -0.91
+• frog       → -0.93
+• horse      → -1.03
+• ship       → -1.00
+• truck      → -1.18
+
+Filter 119 – Mittelwerte pro Klasse:
+• plane      → -1.70
+• car        → -2.47
+• bird       → -2.31
+• cat        → -2.82
+• deer       → -2.45
+• dog        → -3.02
+• frog       → -3.00
+• horse      → -3.21
+• ship       → -1.47
+• truck      → -2.80
+
+Filter 120 – Mittelwerte pro Klasse:
+• plane      → -0.85
+• car        → -1.01
+• bird       → -0.86
+• cat        → -0.90
+• deer       → -0.95
+• dog        → -0.94
+• frog       → -1.03
+• horse      → -1.10
+• ship       → -0.84
+• truck      → -1.16
+
+Filter 121 – Mittelwerte pro Klasse:
+• plane      → -2.75
+• car        → -2.66
+• bird       → -2.32
+• cat        → -1.68
+• deer       → -2.19
+• dog        → -1.76
+• frog       → -2.12
+• horse      → -2.08
+• ship       → -2.65
+• truck      → -2.52
+
+Filter 122 – Mittelwerte pro Klasse:
+• plane      → -0.89
+• car        → -1.34
+• bird       → -1.04
+• cat        → -1.20
+• deer       → -1.08
+• dog        → -1.22
+• frog       → -1.31
+• horse      → -1.31
+• ship       → -0.89
+• truck      → -1.37
+
+Filter 123 – Mittelwerte pro Klasse:
+• plane      → -1.63
+• car        → -1.99
+• bird       → -1.39
+• cat        → -1.65
+• deer       → -1.41
+• dog        → -1.61
+• frog       → -1.79
+• horse      → -1.76
+• ship       → -1.59
+• truck      → -1.88
+
+Filter 124 – Mittelwerte pro Klasse:
+• plane      → -2.10
+• car        → -2.67
+• bird       → -1.40
+• cat        → -1.81
+• deer       → -1.29
+• dog        → -1.77
+• frog       → -1.57
+• horse      → -1.77
+• ship       → -2.21
+• truck      → -2.46
+
+Filter 125 – Mittelwerte pro Klasse:
+• plane      → -2.22
+• car        → -2.28
+• bird       → -2.43
+• cat        → -1.95
+• deer       → -2.48
+• dog        → -2.09
+• frog       → -2.46
+• horse      → -2.24
+• ship       → -1.99
+• truck      → -2.27
+
+Filter 126 – Mittelwerte pro Klasse:
+• plane      → -0.75
+• car        → -1.08
+• bird       → -1.07
+• cat        → -1.47
+• deer       → -1.17
+• dog        → -1.57
+• frog       → -1.38
+• horse      → -1.65
+• ship       → -0.62
+• truck      → -1.35
+
+Filter 127 – Mittelwerte pro Klasse:
+• plane      → -0.15
+• car        → -0.21
+• bird       → -0.16
+• cat        → -0.11
+• deer       → -0.16
+• dog        → -0.12
+• frog       → -0.16
+• horse      → -0.10
+• ship       → -0.12
+• truck      → -0.13

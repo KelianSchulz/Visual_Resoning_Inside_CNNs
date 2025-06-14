@@ -1,0 +1,6 @@
+models/
+*data/
+.pth
+.csv
+*.json
+*.png
