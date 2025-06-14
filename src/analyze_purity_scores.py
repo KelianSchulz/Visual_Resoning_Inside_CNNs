@@ -8,19 +8,19 @@ import json
 
 #------------------Erwartungsmatrix Definieren ------------------
 
+
 expected = {
 
-"plane": ["Objektsilhouette", "Horizontale Kanten", "Oberflächentextur", "Hintergrundfläche", "Silhouettenkontrast", "Objekt Körper", "Lokale Details"],
-"car": ["Objektsilhouette", "Horizontale Kanten", "Oberflächentextur", "Lokale Details", "Objektkörper"],
-"bird" : ["Tierkörper", "Objektsilhouette", "Oberflächentextur"],
-"cat" : ["Tierkörper", "Tierkopf", "Objektsilhouette", "Oberflächentextur", "Lokale Details"],
-"deer": ["Tierkörper", "Tierkopf", "Objektsilhouette"],
-"dog" : ["Objektsilhouette", "Tierkörper", "Tierkopf", "Oberflächentextur"],
-"frog" : ["Oberflächentextur", "Objektsilhouette", "Tierkörper"],
-"horse" : ["Oberflächentextur", "Objektkörper", "Objektsilhouette", "Tierkopf", "Tierkörper"],
-"ship" : ["Fahrzeugstruktur", "Hintergrundfläche", "Horizontale Kanten", "Oberflächentextur", "Objektkörper", "Objektsilhouette", "Silhouettenkontrast"], 
-"truck": ["Fahrzeugstruktur", "Horizontale Kanten", "Lokale Details", "Objektkörper", "Oberflächentextur", "Objektsilhouette", "Silhouettenkontrast"]
-
+    "plane": ["Object silhouette", "Horizontal edges", "Surface texture", "Background surface", "Silhouette contrast", "Object body", "Local details"],
+    "car": ["Object silhouette", "Horizontal edges", "Surface texture", "Local details", "Object body"],
+    "bird": ["Animal body", "Object silhouette", "Surface texture"],
+    "cat": ["Animal body", "Animal head", "Object silhouette", "Surface texture", "Local details"],
+    "deer": ["Animal body", "Animal head", "Object silhouette"],
+    "dog": ["Object silhouette", "Animal body", "Animal head", "Surface texture"],
+    "frog": ["Surface texture", "Object silhouette", "Animal body"],
+    "horse": ["Surface texture", "Object body", "Object silhouette", "Animal head", "Animal body"],
+    "ship": ["Vehicle structure", "Background surface", "Horizontal edges", "Surface texture", "Object body", "Object silhouette", "Silhouette contrast"],
+    "truck": ["Vehicle structure", "Horizontal edges", "Local details", "Object body", "Surface texture", "Object silhouette", "Silhouette contrast"]
 
 
 
