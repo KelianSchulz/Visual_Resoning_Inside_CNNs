@@ -103,5 +103,5 @@ I aim to contribute to fundamental AI research in Germany, and build tools that 
 ## 📬 Contact
 
 Made with ❤️ by **Kelian Schulz**  
-Feel free to reach out via GitHub or [LinkedIn](https://www.linkedin.com/) *(optional)*
+Feel free to reach out via GitHub or [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/kelian-schulz-956836335/)) *(optional)*
 
