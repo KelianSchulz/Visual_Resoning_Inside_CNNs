@@ -102,7 +102,7 @@ def classify_image_with_main_model(image_tensor):
 
 
 
-with open("purity_scores.json", "r", encoding="utf-8") as f:
+with open("results\\purity_scores.json", "r", encoding="utf-8") as f:
     purity_scores = json.load(f)
 
 
